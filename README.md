@@ -7,6 +7,7 @@ The board layout is based on a number system, where each number represents a pos
 4 | 5 | 6
 ---------
 1 | 2 | 3
+
 When the game starts, the board is empty. Player X always starts the game. Each player takes turns entering a number to place their mark. After every move, the game checks:
 If a player has won (3 in a row: horizontally, vertically, or diagonally)
 If the game is a draw (the board is full and no one wins)
